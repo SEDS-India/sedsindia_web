@@ -1,68 +1,43 @@
 const candidates = [
     {
-        name: "Samanyu Okade",
-        position: "Chair and Vice Chair",
-        link: "https://drive.google.com/file/d/1p56NKeys3ee71y2R-FYrniuZ2kJclzBO/preview",
-    },
-    {
-        name: "Sarigha Sriram G",
-        position: "Chair and Secretary",
-        link: "https://drive.google.com/file/d/1svur2FWZ2LWcdOwsNIWmLdqvS96UOH8t/preview",
-    },
-    {
-        name: "Yash Chauhan",
+        name: "Arjun Raizada",
         position: "Chair",
-        link: "https://drive.google.com/file/d/11hneEtBcsrxfmVN4xCVS8yKEafCOVGD-/preview",
+        link: "https://drive.google.com/file/d/1xta5x8MYPmggQW2Q8GwdywUI3P9BHHpL/preview",
     },
     {
-        name: "Piyush Mohite",
-        position: "Vice Chair",
-        link: "https://drive.google.com/file/d/1hdXkPbm5MB4GM0r2xQz10Upz7Qbzm1iH/preview",
-    },
-    {
-        name: "Sushant Srivastav",
+        name: "Mridul Mishra",
         position: "Vice Chair and Secretary",
-        link: "https://drive.google.com/file/d/1zVdEXyzPKzKe7gBdPZIOk0eA-j2Cfk30/preview",
+        link: "https://drive.google.com/file/d/18iGyebSByMns7us3yoDcB3dHgKFqWHyo/preview",
     },
     {
-        name: "Anusuya V",
-        position: "Vice Chair and Executive Director",
-        link: "https://drive.google.com/file/d/1bU6pNezuesAps-bnRhyhJ5-t9UlLIFBd/preview",
+        name: "Lakshmi Prabha K",
+        position: "Secretary and Executive Director",
+        link: "https://drive.google.com/file/d/1Scsavfg8gGrRzYK4_su7iwkakXqKmG-7/preview",
     },
     {
-        name: "Subrahmanyam Mantha",
+        name: "Mayuri G",
         position: "Secretary",
-        link: "https://drive.google.com/file/d/1X8gAJ-5MQQsVbg3FrhiesH1XT9n0fA8B/preview",
+        link: "https://drive.google.com/file/d/1S80Q2lO6VpNPUCjT_9tkeHchEq2-5Xl9/preview",
     },
     {
-        name: "Prakhar Agrawal",
+        name: "Akhila Ajith P",
         position: "Treasurer",
-        link: "https://drive.google.com/file/d/1N7-OEIQizTbLNY9ZeOZVLSC7FHXXWmWX/preview",
+        link: "https://drive.google.com/file/d/1WXfQfEVMlDbJvU5NrTniIGqzmjwdeeTI/preview",
     },
     {
-        name: "Om Diwan",
+        name: "Vishesh Agrawal",
         position: "Corporate Affairs & Funding Director",
-        link: "https://drive.google.com/file/d/10lcg779g_5pAPFoqmzpSNoKnLmVVNjUe/preview",
+        link: "https://drive.google.com/file/d/1gUlSKrHQhFLXh0x1NsxqzHyk4maVhXbj/preview",
     },
     {
-        name: "Anusha R",
-        position: "Corporate Affairs & Funding Director",
-        link: "https://drive.google.com/file/d/1ebD_gK_7a_CphjP3a30JOQ4YmhvGBMFF/preview",
-    },
-    {
-        name: "Tanmayee Srinivas",
+        name: "Laxana S",
         position: "At Large",
-        link: "https://drive.google.com/file/d/1vB9Ab2cDRj3kWqaiisWE0rhcKGA2UTeZ/preview",
+        link: "https://drive.google.com/file/d/1gPvY5OaOpudCp_QN5FAhhZV9yMjB6cuL/preview",
     },
     {
-        name: "K Sai Akshit",
-        position: "Executive Director",
-        link: "https://drive.google.com/file/d/1LMx616iTjh2a0ZD5eSTETunEYZOlG2Ii/preview",
-    },
-    {
-        name: "Priyanka V",
-        position: "Executive Director",
-        link: "https://drive.google.com/file/d/1_cF2aCXXx62bJGzwnVnMj6uiXeBcTutJ/preview",
+        name: "Lavanya Ananthan",
+        position: "At Large",
+        link: "https://drive.google.com/file/d/1Ns7gntu_5w3d-k5VB2IyBVaM__crc-8z/preview",
     },
 ]
 
