@@ -1,7 +1,7 @@
 const candidates = [
     {
         name: "Arjun Raizada",
-        position: "Chair",
+        position: "Chair and Executive Director",
         link: "https://drive.google.com/file/d/1xta5x8MYPmggQW2Q8GwdywUI3P9BHHpL/preview",
     },
     {
@@ -13,6 +13,11 @@ const candidates = [
         name: "Lakshmi Prabha K",
         position: "Secretary and Executive Director",
         link: "https://drive.google.com/file/d/1Scsavfg8gGrRzYK4_su7iwkakXqKmG-7/preview",
+    },
+    {
+        name: "Yuhendran R J",
+        position: "Executive Director",
+        link: "https://drive.google.com/file/d/1TwS-ohCDIS7-Ahz8lONZ33qzR8SHq5NT/preview",
     },
     {
         name: "Mayuri G",
